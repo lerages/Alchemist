@@ -20,3 +20,14 @@ C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist\Alchemist\obj\D
 C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist\Alchemist\obj\Debug\Alchemist.Form1.resources
 C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist\Alchemist\obj\Debug\Alchemist.Resources.resources
 C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist\Alchemist\obj\Debug\Alchemist.vbproj.GenerateResource.Cache
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\bin\Debug\Alchemist.exe.config
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\obj\Debug\Alchemist.exe
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\obj\Debug\Alchemist.xml
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\obj\Debug\Alchemist.pdb
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\bin\Debug\Alchemist.exe
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\bin\Debug\Alchemist.pdb
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\bin\Debug\Alchemist.xml
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\obj\Debug\Alchemist.vbprojResolveAssemblyReference.cache
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\obj\Debug\Alchemist.Form1.resources
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\obj\Debug\Alchemist.Resources.resources
+C:\Users\lerages\Documents\Visual Studio 2015\Projects\Alchemist - Copy\Alchemist\obj\Debug\Alchemist.vbproj.GenerateResource.Cache

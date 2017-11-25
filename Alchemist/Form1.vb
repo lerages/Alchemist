@@ -38,18 +38,29 @@
         mouse_event(&H4, 0, 0, 0, 0) 'mouse up
     End Sub
 
-
+    Function valuesValidated()
+        If TextBox_downMin.Text < TextBox_downMax.Text Then
+            Return True
+        Else
+            Return False
+        End If
+    End Function
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button_toggle.Click
-        castsLeft = TextBox_nCasts.Text
-        If ClickTimer.Enabled Then
-            ClickTimer.Stop()
-            Button_toggle.Text = "Start"
+        If valuesValidated() Then
+            castsLeft = TextBox_nCasts.Text
+            If ClickTimer.Enabled Then
+                ClickTimer.Stop()
+                Button_toggle.Text = "Start"
+            Else
+                ClickTimer.Interval = TextBox_clickInterval.Text
+                ClickTimer.Start()
+                Button_toggle.Text = "Stop"
+            End If
         Else
-            ClickTimer.Interval = TextBox_clickInterval.Text
-            ClickTimer.Start()
-            Button_toggle.Text = "Stop"
+            MsgBox("Minimum value must not exceed maximum value")
         End If
+
     End Sub
     Dim castsLeft As Integer = 0
     Dim clickIntervalModifier As Integer = 0
